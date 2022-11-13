@@ -562,7 +562,7 @@
 }
 .contact .contact-section form .form-controls p{
     width: 60%;
-    visibility: hidden;
+    display: none;
 }
 .contact .svg{
     width: 50%;
